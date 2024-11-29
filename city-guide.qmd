@@ -1,5 +1,7 @@
 ---
-title: "city-guide"
+title: "City Guide"
+name: sepehr
+theme: solar
 format: html
 editor: visual
 ---
