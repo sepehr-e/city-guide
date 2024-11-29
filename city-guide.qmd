@@ -4,8 +4,14 @@ format: html
 editor: visual
 ---
 
-## Intro to the City Guide Repo
+## Cinemas in Rotterdam & Hamburg
 
-This is a short intro to this repo!
+# Hamburg Cinema
 
-This is a tiny change for test!
+Christine says that her favorite cinema in Hamburg is **Neue Flora**.
+
+Neue Flora is a musical theater in Hamburg, owned and operated by Stage Entertainment.
+
+# Rotterdam Cinema
+
+Sepehr's favorite cinema in Rotterdam is Pathé de Kuip. In 2013, the cinema received more than 13,140 visitors in one day, this was a national record.
