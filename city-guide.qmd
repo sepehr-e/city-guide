@@ -8,6 +8,10 @@ editor: visual
 
 ## Cinemas in Rotterdam & Hamburg
 
+:::{.callout-note}
+Cinemas are a great way to have fun for two hours and immerse yourself in the magic of art!
+:::
+
 # Hamburg Cinema
 
 Christine says that her favorite cinema in Hamburg is **Neue Flora**.
@@ -19,4 +23,9 @@ Neue Flora is a musical theater in Hamburg, owned and operated by Stage Entertai
 Sepehr's favorite cinema in Rotterdam is Pathé de Kuip. In 2013, the cinema received more than 13,140 visitors in one day, this was a national record.
 
 ## Places to avoid in Hamburg
-Streets near to the train Central Station
+
+:::{.callout-warning}
+In general, Hamburg is a very safe city.
+:::
+
+Streets near to the train Central Station (but not all the streets!)
