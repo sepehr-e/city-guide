@@ -1,9 +1,0 @@
-Title: Rotterdam City Guide
-
-Rotterdam is a beautiful city in South Holland.
-
-There is a lot of fun things one can do in Rotterdam.
-
-Rotterdam is cool!
-
-This is a new change in the "Main" branch.
